@@ -1,5 +1,5 @@
 # Guidebook-App
-An App that uses the Drilldown navigation pattern to show information about different places.
+📍 Leveraging the Drilldown navigation pattern, this app provides detailed insights into various locations. Integrated with app links for enhanced interactivity and utilizes the native maps app for precise location rendering.
 
 ## Main view (Places)
 <img src="screenshots/1.png" alt="Image 1" width="350"/>
